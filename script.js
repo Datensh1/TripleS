@@ -27,6 +27,7 @@ else if (!loggedIn) {
  alert('Incorrect username and password')
  document.getElementById('username').value = ''
  document.getElementById('password').value= ''
+
 }
 
 
